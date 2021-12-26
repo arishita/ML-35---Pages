@@ -12,13 +12,13 @@ print s
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-<d1>
+<dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes. </dd>
   
   <dt>Markdown is HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>. </dd>
-</d1>
+</dl>
 
 <a href = "https://www.youtube.com/watch?v=oLASCFh-JxQ" target="_blank">
   <img src = "https://img.youtube.com/vi/yHgLTGXY2So/0.jpg"
